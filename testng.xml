@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="CampusHubSuite">
+
+    <test name="allreport">
+
+        <classes>
+
+            <class name="com.student.allreport"/>
+
+        </classes>
+
+    </test>
+
+</suite>
